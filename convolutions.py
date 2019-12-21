@@ -1,5 +1,5 @@
 # USAGE
-# python convolutions.py --image img.jpg
+# python convolutions.py --image rgb.jpg
 
 # import the necessary packages
 #skimage.exposure => Performs Gamma Correction on the input image
